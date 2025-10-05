@@ -1,1 +1,5 @@
-
+git clone https://github.com/NicoWilliams2001/MSCA_681_Assignment2.git
+cd MSCA_681_Assignment2
+git rm "Assignment 2 Part A"
+git commit -m "Delete Assignment 2 Part A"
+git push
